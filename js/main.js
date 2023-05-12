@@ -6,19 +6,19 @@
 	var projectsArray = [
 		{
 			"id": "projectTykOperator",
-			"url": "https://github.com/TykTechnologies/tyk-operator"
+			"url": "https://www.linkedin.com/posts/firaszguir_data-pivottable-salesdata-activity-7036767964427116544-OBjU/"
 		},
 		{
 			"id": "projectCloudixia",
-			"url": "https://ajtima.com"
+			"url": "https://www.rpubs.com/Firas/ganmg"
 		},
 		{
 			"id": "projectServ",
-			"url": "https://www.getserv.io"
+			"url": "https://firaszguir.shinyapps.io/Greenhouse"
 		},
 		{
 			"id": "projectSedkodes",
-			"url": "https://www.youtube.com/channel/UCXR-k7wwwhdovpXXkRitJ_g"
+			"url": "https://gist.github.com/firaszgr/3c6501b285c02407e0217d493b8bb4b2"
 		}
 	]
 
