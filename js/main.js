@@ -21,6 +21,10 @@
 			"url": "https://lookerstudio.google.com/u/0/reporting/8e5dbe76-0704-4bc8-ab42-a763d0ab7a7b/page/XnJZB"
 		},
 		{
+			"id": "chess",
+			"url": "https://github.com/firaszgr/chess.com_chinese_GM"
+		},
+		{
 			"id": "projectSedkodes",
 			"url": "https://gist.github.com/firaszgr/3c6501b285c02407e0217d493b8bb4b2"
 		}
