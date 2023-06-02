@@ -25,6 +25,10 @@
 			"url": "https://github.com/firaszgr/chess.com_chinese_GM"
 		},
 		{
+			"id": "gdp",
+			"url": "https://github.com/firaszgr/GDP"
+		},
+		{
 			"id": "projectSedkodes",
 			"url": "https://gist.github.com/firaszgr/3c6501b285c02407e0217d493b8bb4b2"
 		}
